@@ -1,8 +1,6 @@
 # MhaHao.Hao  
 
-<center>
-    <img src="https://raw.githubusercontent.com/OpenSource-XyZerKunG/MhaHao-Runtime/0.0-mha-mai-kud/assets/mhahao.webp" width="256" height="256" alt="MhaHao.Hao" style="border-radius: 1rem;"/>
-</center>
+<img src="https://raw.githubusercontent.com/OpenSource-XyZerKunG/MhaHao-Runtime/0.0-mha-mai-kud/assets/mhahao.webp" width="256" height="256" alt="MhaHao.Hao"/>
 
 MhaHao is a worse open-source runtime environment. so if it doesn't like your code it will... (try it out)
 
