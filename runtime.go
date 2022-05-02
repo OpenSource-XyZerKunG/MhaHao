@@ -8,7 +8,6 @@ import (
 	"strings"
 
 	"github.com/OpenSource-XyZerKunG/MhaHao-Runtime/module"
-	"github.com/pkg/browser"
 	"github.com/ttacon/chalk"
 )
 
@@ -136,10 +135,6 @@ func hao(haoTime int, roll bool) {
 							}
 
 							haoTimemiwa = append(haoTimemiwa, "Hong")
-						}
-
-						if roll {
-							browser.OpenURL("https://www.youtube.com/watch?v=dQw4w9WgXcQ")
 						}
 
 						haoYee := chalk.Red.Color(strings.Join(haoTimemiwa, " "))
