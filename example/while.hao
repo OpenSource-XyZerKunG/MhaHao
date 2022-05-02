@@ -1,0 +1,6 @@
+WAKEMHA _helloworld
+// So KRADOD mean Jump
+// if you want while loop do this
+_helloworld:
+    BARK, HELLOWORLD <<
+    KRADOD, _helloworld

@@ -1,0 +1,7 @@
+WAKEMHA _helloworld
+// Don't remember to write at the end MHAGIVEUP, I warned you!
+// BARK is print
+// << mean \n
+_helloworld:
+    BARK, HELLOWORLD <<
+    MHAGIVEUP

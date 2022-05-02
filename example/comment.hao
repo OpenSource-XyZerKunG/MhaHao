@@ -1,0 +1,9 @@
+WAKEMHA _main
+# Did you see?
+// I told you it doesn't bite
+_main:
+    // If you want to be bitten, press Enter.
+    KRADOD, _helloworld
+_helloworld:
+    BARK, COMMENT, IT WORK! <<
+    MHAGIVEUP
