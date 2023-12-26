@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/OpenSource-XyZerKunG/MhaHao-Runtime/0.0-mha-mai-kud/assets/mhahao.webp" width="256" height="256" alt="MhaHao.Hao"/>
 
-MhaHao is a worse open-source runtime environment. so if it doesn't like your code it will... (try it out)
+MhaHao is a worse open-source dog ever. if it doesn't like you it will kud! try it out.
 
 ## Collaborators  
 <a href="https://github.com/XyZerKunG">XyZerKunG</a> - XyZerKunG (he/him)  
